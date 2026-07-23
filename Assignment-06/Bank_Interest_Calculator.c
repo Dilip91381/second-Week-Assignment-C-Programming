@@ -1,8 +1,4 @@
-#include <stdio.h>
-
-int main() {
-    float principal, rate, time, interest;
-
+#include
     printf("Enter Principal Amount: ");
     scanf("%f", &principal);
 
